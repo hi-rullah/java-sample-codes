@@ -1,0 +1,4 @@
+File created
+info.txt
+testfile2
+Number of file : 2
